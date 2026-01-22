@@ -241,7 +241,7 @@ export const EdgeMenu = () => {
               <div className="text-gray-800 text-xs font-medium">
                 If it shows <b>"Refused to connect"</b>, then{" "}
                 <b>that website doesn't allow </b>
-                other websites to show their content. <b>I cannot fix it</b>.
+                other websites to show their content. <b>I cannot fix it, but you may use some</b>.
               </div>
             </div>
           </div>
